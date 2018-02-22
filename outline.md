@@ -17,7 +17,7 @@
   * Cascade v. Continous
     * Prototype Pixs
   * Gearing & motor selection
-* Carrige
+* Carriage
   * How is assembled
   * Why bearing rollers
 * Intake
