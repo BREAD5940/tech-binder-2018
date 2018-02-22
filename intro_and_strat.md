@@ -11,6 +11,7 @@ We began the season with a basic analysis of the 2018 game, _FIRST_ POWER UP. Th
     * Scale robots may be more scarce, allowing for us to potentially own the scale the entire match
     * Allows us to gain experience with a more mechanically complex mechanism
     * Could put a power cube on the scale in auto, thus allowing us to own it sooner
+    * Contains many of the "Switch & Vault" benefits
 
 Considering the following and our team capabilities, we decided on our "Scale-capable Robot" concept. We then set to define the various characteristics our robot needed to have to be successful.
 
