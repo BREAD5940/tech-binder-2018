@@ -27,5 +27,10 @@
 * Programming
   * Overview of code & special things
   * Auto
+
+TODO:
+
+* Check ratios
+* Final approval on info and strat
     
   
