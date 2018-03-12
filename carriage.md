@@ -18,3 +18,4 @@ Minimal prototyping was needed once the elevator mechanism and structure was def
     * Has multiple bearings in each dimension
     * Keeps the carriage from racking side-to-side and front-to-back
 * Uses a rotational force dampener to rotate intake mechanism down at match start
+    * Less complexity by using gravity to actuate intake lowering
