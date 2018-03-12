@@ -12,7 +12,7 @@
 
 * Uses Nodes to do actions
 * Is in the form of a directed asyclic graph
-* Nodes are updated 
+* Nodes are updated every update cycle and either update their stored value or perform an action based on other Node's values
 
 #### Autonomous Path Planning
 
